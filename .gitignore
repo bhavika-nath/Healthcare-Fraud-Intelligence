@@ -2,3 +2,4 @@ data/raws/
 data/processed/
 Dashboards/powerbi_data/provider_dashboard_data.csv
 Dashboards/powerbi_data/.ipynb_checkpoints/
+.DS_Store
