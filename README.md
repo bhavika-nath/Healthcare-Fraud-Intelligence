@@ -1,4 +1,4 @@
-# 🏥 Healthcare Fraud Intelligence Platform
+# 🏥 Healthcare Fraud Intelligence Platform - Ai Assistant
 
 AI-powered healthcare fraud detection platform built using **Python, SQL, Hive, PostgreSQL, Machine Learning, SHAP, Power BI, Streamlit, and Llama 3.1**.
 
